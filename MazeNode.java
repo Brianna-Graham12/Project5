@@ -1,5 +1,5 @@
 # Project5
-package Project5; 
+package project5; 
 
 /** 
 Represenst a single pointin the maze
